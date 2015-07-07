@@ -1,0 +1,60 @@
+## Java
+*.class
+dist
+download
+push.sh
+remotebuild.py
+
+## Gradle
+/.gradle
+/build
+/eclipse
+/gradlew.bat
+
+## ForgeGradle
+/run
+/out
+
+## IDEA
+*.iml
+*.ipr
+*.iws
+
+## Eclipse
+/.settings
+/.metadata
+/.classpath
+/.project
+/bin
+/.idea
+/client/
+/Server/
+/classes/
+
+## OS Cache Files
+*.DS_Store
+_MACOSX
+Thumbs.db
+
+## Misc. Unnecessary Files
+*.log
+*.lck
+
+##Minecraft
+/logs
+/config
+/mods
+/saves
+/crash-reports
+options.txt
+screenshots/
+/world
+/ClientStart.java
+/banned-ips.json
+/banned-players.json
+/eula.txt
+/ops.json
+/server.properties
+/usercache.json
+/usernamecache.json
+/whitelist.json
